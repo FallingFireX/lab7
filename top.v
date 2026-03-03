@@ -1,6 +1,6 @@
 module top(
-  input [7:0] sw,
-  output [5:0] led
+  input [9:0] sw,
+  output [13:0] led
   
 );
 
@@ -29,3 +29,4 @@ module top(
   );
 
 endmodule
+

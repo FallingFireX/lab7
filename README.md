@@ -12,8 +12,8 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Sydney Hurst
-Collin Green
+- Sydney Hurst
+- Collin Green
 
 ## Summary
 

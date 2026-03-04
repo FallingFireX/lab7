@@ -1,0 +1,3 @@
+input A
+output Y,
+

@@ -21,6 +21,7 @@ We used Ones and Twos complements to do simple binary math
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.
+- The half adder added 1 bit numbers together and required a carry; where the half subtractor subtracted two 1 bit numbers from one another and required a borrow
 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
 - It increases complexity, and deviates from standard binary addition. 
